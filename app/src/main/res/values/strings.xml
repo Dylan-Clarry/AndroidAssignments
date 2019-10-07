@@ -8,4 +8,8 @@
     <string name="what_do">What does this do?</string>
     <string name="radio_btn">RadioButton</string>
     <string name="check_box">CheckBox</string>
+    <string name="dialogMessage">Would you like to exit?</string>
+    <string name="dialogOk">Yes</string>
+    <string name="dialogTitle">Confirm</string>
+    <string name="dialogNo">No</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">安卓分配</string>
     <string name="hello_message">你好世界！</string>
     <string name="ButtonText">我是一个按钮</string>
     <string name="login">登录</string>
@@ -8,4 +9,8 @@
     <string name="what_do">这是做什么的?</string>
     <string name="radio_btn">单选按钮</string>
     <string name="check_box">复选框</string>
+    <string name="dialogMessage">你想出去吗？</string>
+    <string name="dialogOk">出</string>
+    <string name="dialogTitle">确认</string>
+    <string name="dialogNo">留</string>
 </resources>
