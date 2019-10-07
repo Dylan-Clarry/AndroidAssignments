@@ -12,4 +12,7 @@
     <string name="dialogOk">Yes</string>
     <string name="dialogTitle">Confirm</string>
     <string name="dialogNo">No</string>
+    <string name="startChatBtn">Start Chat</string>
+    <string name="newText">New Text</string>
+    <string name="sendText">Send Text</string>
 </resources>

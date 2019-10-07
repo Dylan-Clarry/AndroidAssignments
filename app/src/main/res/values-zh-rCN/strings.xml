@@ -13,4 +13,7 @@
     <string name="dialogOk">出</string>
     <string name="dialogTitle">确认</string>
     <string name="dialogNo">留</string>
+    <string name="startChatBtn">开始说</string>
+    <string name="newText">新文字</string>
+    <string name="sendText">发短讯</string>
 </resources>
